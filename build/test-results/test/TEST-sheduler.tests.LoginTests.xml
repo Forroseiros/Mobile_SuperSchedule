@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="sheduler.tests.LoginTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-30T17:35:46" hostname="DESKTOP-JSUKBT7" time="15.599">
+  <properties/>
+  <testcase name="loginPositiveTest" classname="sheduler.tests.LoginTests" time="15.599"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[июн. 30, 2021 8:35:46 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
